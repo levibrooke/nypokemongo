@@ -9,8 +9,10 @@
 title: New York Pokemon Go
 email: info@newyorkpokemongo.com
 description: Domain available
+url: http://newyorkpokemongo.com
 
-url: http://newyorkpokemongo.com # the base hostname & protocol for your site
+# Meta variable for Google Webmaster tools
+google-verification: yLu0PXM6C9JSnbhNX24jf4tDg9FbiqtlYbt1Ubf1g9A
 
 exclude:
     - LICENSE
